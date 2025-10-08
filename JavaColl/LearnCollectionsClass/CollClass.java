@@ -1,3 +1,4 @@
+package LearnCollectionsClass;
 import java.util.*;
 
 public class CollClass {

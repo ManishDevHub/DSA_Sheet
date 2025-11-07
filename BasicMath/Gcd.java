@@ -4,8 +4,6 @@ public class Gcd {
     
     public static void main(String[] args) {
         
-// tc = big of log fie minnimum of a and b
-
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Num1");
         int a = sc.nextInt();
